@@ -1,2 +1,2 @@
 # cursoR
-Este repositorio contiene sobre notas en curso de R.
+Este repositorio contiene sobre notas del curso de R.
